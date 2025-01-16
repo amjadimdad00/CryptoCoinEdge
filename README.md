@@ -1,6 +1,6 @@
 # 🌟 CryptoCoinEdge 🚀
 
-**CryptoCoinEdge** is a React practice project featuring a crypto-dashboard. It includes a dashboard view, transaction tracking, and support sections, all powered by dummy data created by me (Amjad Imdad)[https://amjadimdad00.vercel.app]. 📈💎
+**CryptoCoinEdge** is a React practice project featuring a crypto-dashboard. It includes a dashboard view, transaction tracking, and support sections, all powered by dummy data created by [Amjad Imdad](https://amjadimdad00.vercel.app). 📈💎
 
 ---
 
