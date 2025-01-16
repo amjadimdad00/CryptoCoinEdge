@@ -2,7 +2,7 @@ import TextCard from "../../components/Support/TextCard";
 import ContactCard from "../../components/Support/ContactCard";
 import ContactForm from "../../components/Support/ContactForm";
 
-import Email from "../../assets/Support/email.png";
+import Email from "../../assets/Support/Email.png";
 import Chatbot from "../../assets/Support/Chatbot.png";
 
 const index = () => {
